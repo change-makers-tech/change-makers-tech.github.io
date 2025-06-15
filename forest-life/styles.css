@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+  font-size: 74px;
+}
+p {
+  font-size: 24px;
+  font-family: "Pacifico", cursive;
+}
+h2 {
+  font-size: 32px;
+  font-family: "Bebas Neue", sans-serif;
+}
+
+body {
+  background-color: slate-gray;
+}
+img {
+  width: 20%;
+}
+
+.big-img {
+  width: 60%;
+}
